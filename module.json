@@ -1,7 +1,12 @@
 {
-    "servers": ["https://raw.githubusercontent.com/merusira/library/master/"],
-    "supportUrl": "https://github.com/merusira/library/issues",
+    "servers": ["https://raw.githubusercontent.com/tera-private-toolbox/library/master/"],
+    "supportUrl": "https://github.com/tera-private-toolbox/library/issues",
     "name": "library",
-    "disableAutoUpdate": false,
-	"disabled": false
+	"author": "HSDN",
+	"description": "Backup of HSDN's library module which works with Rival, a zero ping emulation mod for TERA.",
+		"conflicts": [
+        "library"
+    ],
+	"disableAutoUpdate": false,
+    "disabled": false
 }

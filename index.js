@@ -4,7 +4,6 @@ const PRE_LOAD_MODULES = ['packet', 'library'];
 class Library{
 	constructor(dispatch, arg1) {
 		this.autism4 = true;
-		this.rival100 = true;
         this.mods = {};
 		this.command = dispatch.command;
 		this.cmd = this.command;
