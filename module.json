@@ -1,0 +1,7 @@
+{
+    "servers": ["https://raw.githubusercontent.com/merusira/library/master/"],
+    "supportUrl": "https://github.com/merusira/library/issues",
+    "name": "library",
+    "disableAutoUpdate": false,
+	"disabled": false
+}
